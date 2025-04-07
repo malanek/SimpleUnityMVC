@@ -19,7 +19,7 @@ It cleanly separates **game logic**, **data**, and **visuals**, and is designed 
 Add this line to your `manifest.json`:
 
 ```json
-"com.malanek.simpleunitymvc": "https://github.com/malanek/SimpleUnityMVC.git?path=Runtime#main"
+"com.malanek.simpleunitymvc": "https://github.com/malanek/SimpleUnityMVC.git?path=Runtime"
 ```
 
 > ☝️ Replace with your actual GitHub repo link.
