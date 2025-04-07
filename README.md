@@ -22,9 +22,13 @@ Add this line to your `manifest.json`:
 "com.malanek.simpleunitymvc": "https://github.com/malanek/SimpleUnityMVC.git?path=Runtime"
 ```
 
-> ☝️ Replace with your actual GitHub repo link.
+Add by git url :
 
-### Option 2 – Manual
+```json
+"https://github.com/malanek/SimpleUnityMVC.git?path=Runtime"
+```
+
+### Option 3 – Manual
 
 Copy `MVC.cs` and `View.cs` into your project.
 
