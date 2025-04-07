@@ -25,7 +25,7 @@ Add this line to your `manifest.json`:
 Add by git url :
 
 ```json
-"https://github.com/malanek/SimpleUnityMVC.git?path=Runtime"
+https://github.com/malanek/SimpleUnityMVC.git?path=Runtime
 ```
 
 ### Option 3 – Manual
