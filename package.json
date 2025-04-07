@@ -1,0 +1,12 @@
+{
+    "name": "com.malanek.simpleunitymvc",
+    "version": "1.0.0",
+    "displayName": "Simple Unity MVC",
+    "description": "Minimal MVC pattern for Unity prefabs (non-UI). Clean separation of model, controller and visual view.",
+    "unity": "2020.3",
+    "author": {
+        "name": "Mateusz Malanowski",
+        "email": "mateusz.malanowski@bugbomb.com",
+        "url": "https://github.com/malanek"
+    }
+}
